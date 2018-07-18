@@ -12,6 +12,6 @@ class CustomeView @JvmOverloads constructor(
 
 
     @OnLifecycleEvent(Lifecycle.Event.ON_CREATE) fun onCreate(){
-
+        
     }
 }
